@@ -88,3 +88,5 @@ Responde en un archivo `REFLEXION.md` (o como comentarios al final de `main.cpp`
 1. Verifica que los cinco algoritmos muestren ✅ para los tres criterios.
 2. Haz *commit* y *push* de tu trabajo a tu repositorio.
 3. Incluye tu archivo de reflexión.
+
+### Este README fue generado por Claude, 10/20/2026
