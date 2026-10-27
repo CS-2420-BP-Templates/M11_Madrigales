@@ -11,14 +11,13 @@
 //  ordenamiento para ayudarla!
 //
 //  INSTRUCCIONES:
-//  1. Busca todos los comentarios que dicen "TODO" (en CLion puedes verlos
-//     en la pestaña TODO, abajo a la izquierda).
-//  2. Completa los algoritmos en orden: Burbuja -> Selección -> Inserción
-//     -> Mezcla (Merge Sort) -> Rápido (Quick Sort).
+//  1. Busca todos los comentarios que dicen "TODO".
+//  2. Completa los algoritmos en orden: Bubble -> Selection -> Insertion
+//     -> Merge -> Quick.
 //  3. Cada algoritmo debe usar la función `menorQue` que recibe como
 //     parámetro, para poder ordenar por distintos criterios.
-//  4. Cada vez que COMPARES dos elementos haz:  est.comparaciones++;
-//     Cada vez que INTERCAMBIES o MUEVAS un elemento haz: est.movimientos++;
+//  4. Cada vez que COMPARES dos elementos usa:  est.comparaciones++;
+//     Cada vez que INTERCAMBIES o MUEVAS un elemento usa: est.movimientos++;
 //  5. Ejecuta el programa. Si todo está bien verás ✅ en cada algoritmo.
 //  6. Responde las preguntas de reflexión al final de este archivo.
 //
