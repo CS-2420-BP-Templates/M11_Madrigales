@@ -73,16 +73,6 @@ Además, al final se imprimirá la tabla de la ofrenda familiar ordenada.
 - Puedes crear funciones auxiliares (por ejemplo, un `intercambiar`), siempre que respetes las firmas existentes.
 - Comenta tu código: explica con tus palabras qué hace cada bloque importante.
 
-## 🤔 Preguntas de reflexión
-
-Responde en un archivo `REFLEXION.md` (o como comentarios al final de `main.cpp`):
-
-1. ¿Qué algoritmo hizo **menos** comparaciones con la familia ordenada por edad? ¿Y cuál **más**? ¿Por qué crees que ocurrió?
-2. Selection Sort hace pocos movimientos comparado con Bubble Sort. ¿Por qué?
-3. ¿Qué pasa con Insertion Sort si el arreglo **ya está ordenado**? Compruébalo ejecutando el algoritmo dos veces seguidas.
-4. ¿Qué significa que un algoritmo sea **estable**? ¿Cuáles de los cinco lo son? Pista: observa el orden de las personas con "Sin don" al ordenar por don.
-5. Con solo 13 personas, ¿notas diferencias de rendimiento? ¿Qué pasaría con 100,000 personas? Relaciona tu respuesta con O(n²) y O(n log n).
-
 ## 📤 Entrega
 
 1. Verifica que los cinco algoritmos muestren ✅ para los tres criterios.
