@@ -42,6 +42,7 @@
 build/
 Build/
 build-*/
+out/
 
 # CMake generated files
 CMakeFiles/
@@ -66,3 +67,19 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# ---- CLion / JetBrains ----
+.idea/
+*.iml
+*.iws
+cmake-build-*/
+
+# ---- Sistema operativo ----
+.DS_Store
+Thumbs.db
+desktop.ini
+ 
+# ---- Otros editores ----
+.vscode/
+*.swp
+*~
